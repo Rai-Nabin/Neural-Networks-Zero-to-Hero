@@ -1,0 +1,4 @@
+micrograd
+ipykernel
+numpy
+matplotlibgit 
